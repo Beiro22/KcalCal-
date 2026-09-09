@@ -1,0 +1,17 @@
+{
+  "name": "Peso Pluma",
+  "short_name": "Peso Pluma",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#10141B",
+  "theme_color": "#10141B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxODAiIGhlaWdodD0iMTgwIj48cmVjdCB3aWR0aD0iMTgwIiBoZWlnaHQ9IjE4MCIgcng9IjQwIiBmaWxsPSIjMTAxNDFCIi8+PHRleHQgeD0iOTAiIHk9IjEyMiIgZm9udC1mYW1pbHk9Ik9zd2FsZCxJbXBhY3Qsc2Fucy1zZXJpZiIgZm9udC1zaXplPSI5NiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI0VERTlFMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+NjU8L3RleHQ+PC9zdmc+",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
